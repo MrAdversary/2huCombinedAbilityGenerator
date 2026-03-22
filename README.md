@@ -1,1 +1,22 @@
+# 2huAbilityCombineGen
+A generator that lets you combine the powers of two Touhou characters into one. (Inspired by https://randomtouhougen.neocities.org/)
 
+For fun, I thought of an innovative website idea that would combine the abilities of two touhou characters into one. </br>
+Click the button → get a combined ability.
+
+## Highlights
+
+- 20+ lines embedded
+- Unique character pairing
+
+## Features
+
+- Button to randomly generate abilities
+- Simple website design
+
+## Note
+
+This is a **non-commercial fan project** based on character abilities from the Touhou Project. </br>
+Touhou Project © Team Shanghai Alice / ZUN.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
